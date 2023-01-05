@@ -1,6 +1,6 @@
 # SpringBoot
 
-### SpringBoot MySQL 연동
+- SpringBoot MySQL 연동
 ```
 spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
 spring.datasource.url=jdbc:mysql://localhost:3306/example?serverTimezone=UTC&characterEncoding=UTF-8
